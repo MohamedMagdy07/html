@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.hero {
+    background-image: url("Universe.jpg");
+    background-size: cover;
+    color: turquoise;
+    padding: 15px 0px 100px 0px;
+
+}
+
+.btn {
+    padding: 5px 10px;
+    background: white;
+    border: none;
+}
+
+.orbitron400 {
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.orbitron800 {
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.unl {
+    border-bottom: 2px solid white;
+}
+
+.terms {
+    color: turquoise;
+    font-size: 40px;
+    text-shadow: 0px 0px 4px black;
+}

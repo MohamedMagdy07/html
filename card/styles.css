@@ -1,0 +1,80 @@
+body {
+    background: teal;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.logo {
+    display: block;
+    width: 300px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn {
+    margin-top: 30px;
+    background: #dfe1e5;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.search-input {
+    display: block;
+    width: 400px;
+    line-height: 24px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.card {
+    display: flex;
+    border-radius: 12px;
+    padding: 20px;
+    color: #2b2839;
+    background-color: turquoise;
+    border-bottom: 6px solid azure;
+    width: 500px;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.avatar {
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+    border-radius: 500px;
+}
+
+.text {
+    color: white;
+    display: block;
+    font-style: italic;
+    text-align: center;
+    margin: auto ;
+}
